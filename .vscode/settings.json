@@ -1,0 +1,8 @@
+{
+    "editor.defaultFormatter": "GitHub.copilot",
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
